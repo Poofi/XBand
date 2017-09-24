@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (emg-data-sample-VisualStudio2013.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  hello-myo.cpp
+c:\users\srini\downloads\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\srini\downloads\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\srini\downloads\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\srini\downloads\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  hello-myo-VisualStudio2013.vcxproj -> C:\Users\Srini\Downloads\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\samples\x64\Debug\hello-myo-VisualStudio2013.exe
+  hello-myo-VisualStudio2013.vcxproj -> C:\Users\Srini\Downloads\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\samples\x64\Debug\hello-myo-VisualStudio2013.pdb (Partial PDB)
+          1 file(s) copied.

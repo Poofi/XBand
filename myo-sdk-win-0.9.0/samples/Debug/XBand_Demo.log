@@ -1,0 +1,9 @@
+﻿  XBand_Demo.cpp
+c:\users\srini\downloads\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\srini\downloads\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\srini\downloads\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\srini\downloads\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+XBand_Demo.cpp(298): warning C4018: '<': signed/unsigned mismatch
+  XBand_Demo.vcxproj -> C:\Users\Srini\Downloads\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\samples\Debug\XBand_Demo.exe
+  XBand_Demo.vcxproj -> C:\Users\Srini\Downloads\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\samples\Debug\XBand_Demo.pdb (Partial PDB)
+          1 file(s) copied.
