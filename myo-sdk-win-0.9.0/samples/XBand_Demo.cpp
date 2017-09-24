@@ -414,12 +414,13 @@ int main(int argc, char** argv)
 			hub.run(1000 / 30);
 			--measureRange;
 		}
+		collector.publish("Exercises.txt");
+		checks = collector.getData();
 
 		checks = collector.getData();
 
 		std::cout << std::endl << "Starting trainer!" << std::endl;
 
-		int i = 0;
 		int e = 0;
 
 		while (1) {
